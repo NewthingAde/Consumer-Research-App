@@ -1,6 +1,6 @@
 # Consumer-Research-App
 This is an application that scrap data online and help user to analysis and make recommendation of product, service or company to patronise in a location
-
+## The website https://www.trustpilot.com/ was scraped for the data used in the project
 # Why the App?
 
 Consumer research is a vital aspect of marketing and product development. 
